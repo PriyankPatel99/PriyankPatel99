@@ -37,7 +37,7 @@ I build beautiful cross-platform mobile applications with Flutter and scalable b
 </div>
 
 ---
-
+<!---
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -49,7 +49,7 @@ I build beautiful cross-platform mobile applications with Flutter and scalable b
 </div>
 
 ---
-
+-->
 # 🔥 Contribution Streak
 
 <div align="center">
