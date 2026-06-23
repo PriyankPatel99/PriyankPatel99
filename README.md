@@ -114,15 +114,15 @@ Flutter Web
 
 <p align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/PriyankPatel99">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/priyank-patel-349a7b204">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:priyank.patel@gmail.com">
+<a href="mailto:priyankbhingradiya@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
